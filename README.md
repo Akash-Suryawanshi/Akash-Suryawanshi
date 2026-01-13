@@ -1,32 +1,33 @@
-# Hey, I'm Akash
+# Hey, I'm Akash 👋
 
-**Building AI systems that help people work more efficiently.**
+I build AI systems that help people work more efficiently.
+
+## What I'm working on
+
+Currently building reliable and efficient AV workflows — systems that help teams identify edge cases faster, automate repetitive QA, debug annotations without context-switching, and allocate workloads effectively.
+
+## Things I've built
+
+- **Computer Vision for Autonomous Vehicles** — scene understanding, annotation validation, visualization tools
+- **LLM Finetuning Pipelines** — optimized GPU throughput on H100s, A100s, and multi-node clusters
+- **3D MRI Reconstruction** — GANs for medical imaging, published in Neurocomputing
+- **Anomaly Detection** — DNS traffic analysis for identifying malicious patterns
+
+## Tech I work with
+
+```
+Python • PyTorch • OpenCV • YOLO • CLIP • Docker • AWS • LangChain • Git
+```
+
+## Beyond code
+
+I've been a swimmer all my life (28 golds 🏅, Aquatics Captain at IIT Delhi), enjoy playing guitar in my spare time, and appreciate good food.
+
+## Let's connect
+
+- 📧 akash.cse.iitd@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/akash-suryawanshi-962571170/)
 
 ---
 
-### What I'm Working On
-
-- Reliable AV annotation workflows that help teams identify edge cases faster
-- Systems for automated QA and annotation debugging without context-switching
-- GPU throughput optimization for LLM finetuning on H100s & A100s
-
-### Tech I Work With
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Beyond Code
-
-- Swimmer since forever
-- Guitar in spare time
-- Appreciate good food
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chlorineboss/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akash.cse.iitd@gmail.com)
-
----
-*Open to interesting conversations and collaborations.*
+*B.Tech + M.Tech in CS, IIT Delhi*
