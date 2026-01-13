@@ -13,15 +13,10 @@ Currently building reliable and efficient AV workflows — systems that help tea
 - **3D MRI Reconstruction** — GANs for medical imaging, published in Neurocomputing
 - **Anomaly Detection** — DNS traffic analysis for identifying malicious patterns
 
-## Tech I work with
-
-```
-Python • PyTorch • OpenCV • YOLO • CLIP • Docker • AWS • LangChain • Git
-```
 
 ## Beyond code
 
-I've been a swimmer all my life (28 golds 🏅, Aquatics Captain at IIT Delhi), enjoy playing guitar in my spare time, and appreciate good food.
+I've been a swimmer all my life, enjoy playing guitar in my spare time, and appreciate good food.
 
 ## Let's connect
 
