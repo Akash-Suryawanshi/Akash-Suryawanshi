@@ -25,4 +25,3 @@ I've been a swimmer all my life, enjoy playing guitar in my spare time, and appr
 
 ---
 
-*B.Tech + M.Tech in CS, IIT Delhi*
