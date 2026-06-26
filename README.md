@@ -25,12 +25,12 @@
 
 ### 🔭 What I do
 
-I take ML systems **0 → 1** and own the full arc — curating and quantifying datasets,
+I take ML systems **0 → 1** and own the full arc: curating and quantifying datasets,
 finetuning and rigorously evaluating models and agents, and architecting the parallelized
-GPU infrastructure they ship on. I like building from first principles to understand systems
-deeply and the tradeoffs that actually move the business.
+GPU infrastructure they ship on. The future of vision and robotics/physical AI is something I 
+am deeply passionate about. 
 
-Currently **ML Engineer @ iMerit** (AI Automation). I spend my time on the hard problems in **vision and memory**.
+Currently **ML Engineer @ iMerit** (AI Automation).
 
 > 🌱 *Currently building efficient agents for heavy human-ops workflows at iMerit.*
 
