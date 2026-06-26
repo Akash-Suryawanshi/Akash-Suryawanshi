@@ -28,7 +28,9 @@
 I take ML systems **0 → 1** and own the full arc: curating and quantifying datasets,
 finetuning and rigorously evaluating models and agents, and architecting the parallelized
 GPU infrastructure they ship on. The future of vision and robotics/physical AI is something I 
-am deeply passionate about. 
+am deeply passionate about. Outside of tech, I have been an athlete all my life, enjoy guitar 
+in my spare time and travel as much as I can. Feel free to write me if you are building something interesting 
+and want to work together or just have a chat: akash.cse.iitd@gmail.com. 
 
 Currently **ML Engineer @ iMerit** (AI Automation).
 
@@ -74,6 +76,4 @@ composite loss. **MSSIM 0.94** on AOMIC (beats 3D-VAE / α-WGAN by 7%+); **71.2%
 
 ---
 
-<p align="center">
-  <sub>🏊 Aquatics Captain, IIT Delhi (2024) · 🎓 KVPY Scholar (AIR 18) · JEE Main 99.94%ile</sub>
-</p>
+
