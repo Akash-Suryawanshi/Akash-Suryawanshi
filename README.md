@@ -25,14 +25,12 @@
 
 ### 🔭 What I do
 
-I take ML systems **0 → 1** and own the full arc: curating and quantifying datasets,
+I take ML systems **0 → 1** and own the full arc — curating and quantifying datasets,
 finetuning and rigorously evaluating models and agents, and architecting the parallelized
-GPU infrastructure they ship on. The future of vision and robotics/physical AI is something I 
-am deeply passionate about. Outside of tech, I have been an athlete all my life, enjoy guitar 
-in my spare time and travel as much as I can. Feel free to write me if you are building something interesting 
-and want to work together or just have a chat: akash.cse.iitd@gmail.com. 
+GPU infrastructure they ship on. I like building from first principles to understand systems
+deeply and the tradeoffs that actually move the business.
 
-Currently **ML Engineer @ iMerit** (AI Automation).
+Currently **ML Engineer @ iMerit** (AI Automation). I spend my time on the hard problems in **vision and memory**.
 
 > 🌱 *Currently building efficient agents for heavy human-ops workflows at iMerit.*
 
@@ -51,13 +49,16 @@ Currently **ML Engineer @ iMerit** (AI Automation).
 
 ### 📌 Featured Work
 
-**🩺 [NurseAI](https://github.com/Akash-Suryawanshi/NurseAI)** — *agentic medical assistant*
-A FastAPI service wrapping a **GPT-4 chain-of-thought pipeline**, with voice input (speech-to-text) and
-PDF / DOCX document ingestion behind a web UI. Built with LangChain — an early take on agents for clinical ops.
+**🩺 [NurseAI](https://github.com/Akash-Suryawanshi/NurseAI)** — *agentic clinical triage assistant*
+A FastAPI assistant that runs **GPT-4 chain-of-thought differential diagnosis** across departments, then
+narrows the candidate list through an **adaptive follow-up + rule-out loop**. Token-bounded
+**conversation-summary memory** keeps long multi-turn sessions coherent, and it ingests **voice (speech-to-text)**
+and **PDF / DOCX** alongside chat. Built on LangChain.
 
-**🔎 [Context-QnA](https://github.com/Akash-Suryawanshi/Context-QnA)** — *grounded RAG engine*
-Embeds a product catalog into a **Qdrant** vector DB (MiniLM-L6-v2) and answers questions strictly from
-retrieved context with **Llama-2-7B** — retrieval, prompt grounding, and an API layer end to end.
+**🔎 [Context-QnA](https://github.com/Akash-Suryawanshi/Context-QnA)** — *grounded RAG question-answering*
+A retrieval-augmented QnA engine: **sentence-transformer embeddings (MiniLM-L6-v2)** indexed in a **Qdrant**
+vector store with **cosine-similarity top-k** retrieval over metadata-rich payloads, feeding **Llama-2-7B** under
+**strict context-grounded prompting** to suppress hallucination — retrieval, grounding, and an API layer end to end.
 
 **🧠 R2RG: Learning 3D MRI Representations with GANs** — *Master's Thesis · published in Neurocomputing*
 Self-supervised 3D brain-MRI representation learning: 3D-CNN autoencoder + PatchGAN with a novel
@@ -76,4 +77,6 @@ composite loss. **MSSIM 0.94** on AOMIC (beats 3D-VAE / α-WGAN by 7%+); **71.2%
 
 ---
 
-
+<p align="center">
+  <sub>🏊 Aquatics Captain, IIT Delhi (2024) · 🎓 KVPY Scholar (AIR 18) · JEE Main 99.94%ile</sub>
+</p>
